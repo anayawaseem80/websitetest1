@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<body>
+
+<h1>POC SUBDOMAIN TAKEOVER by Eqaan</h1>
+
+</body>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  window.onload = function() {
+    alert("Site has been takeover :)");
+  };
+</script>
+</head>
+<body>
+<!-- Your website content here -->
+</body>
+</html>
